@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Jamunkar</h1>
-<h3 align="center">A passionate Full Stack Developer, Mentor, and Technical Trainer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -23,9 +23,9 @@
 
 ## 💫 About Me
 
-I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
+I’m **Tushar Jamunkar**, a passionate Full Stack Developer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
 
-- 🏢 I currently work as a **Mentor & Trainer**, delivering technical guidance and project-based learning under **DevineTech Solutions**, where I focus on practical development, architecture clarity, and industry-ready skills.
+- 🏢 I currently work as a **Trainer**, delivering technical guidance and project-based learning under **DevineTech Solutions**, where I focus on practical development, architecture clarity, and industry-ready skills.
 - 💼 Alongside this, I am actively working with **Dexpert Systems**, contributing to development and learning in advanced system design and modern technology stacks.
 
 ### 💻 What I Do
