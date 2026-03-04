@@ -1,4 +1,4 @@
-## Hi there  I'm Tushar Jamunkar👋
+## Hi 👋  I'm Tushar Jamunkar👋
 
 <!--
 **tusharjamunkar/tusharjamunkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
