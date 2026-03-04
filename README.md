@@ -12,7 +12,7 @@
   <a href="tusharjamunkar569@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/iam_adi29">
+  <a href="https://instagram.com/tushar_jamunkar_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <!-- Add your LinkedIn or Twitter here if you want! -->
