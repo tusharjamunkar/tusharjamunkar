@@ -85,29 +85,12 @@ I’m **Tushar Jamunkar**, a passionate Full Stack Developer with hands-on exper
 
 ## 🚀 Upcoming Projects
 
-1. **FLAT MATE** - [Upcoming]
-2. **NODE NET** - [Upcoming]
-3. **ENGIWORLD** - [Upcoming]
-4. **TEAMO :DIY STORE** - [Upcoming]
-5. **DAILY ROUTINE TRACKER** - [Upcoming]
+1. Student Attendance Management System
+2. Cafe Management
 
 ---
 
-## 🛠️ IoT Projects (Patented)
 
-1. **WOMEN SAFETY DEVICE** 
-2. **IOT BASED NOVEL SCENNER**
-
----
-
-## 📖 Author of Books
-
-1. **LAST SIX DAYS**
-2. **THE LOVE I CANT HOLD**
-3. **THE TUNNEL PARADOX**
-4. **I KILLED MYSELF**
-5. **THE FALL OF YASAKA**
-6. **IS THIS FIRST ?**
 
 
 ## 📊 GitHub Stats
