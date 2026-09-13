@@ -1,82 +1,156 @@
-<h1 align="center">Hi 👋, I'm Tushar Jamunkar</h1>
-<h3 align="center">Backend & Systems Engineer • Open Source Contributor • Developer Tooling</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:tusharjamunkar569@gmail.com">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%7C%20Backend%20%26%20Platform%20Roles-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open to Work" />
+  # ⚡ Hey there, I'm Tushar Jamunkar
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Engineer;Open+Source+Contributor+%40+LiteLLM;Creator+of+ContractGuard+(GitHub+Action);Building+Developer+Tooling+%26+API+Reliability" alt="Typing SVG" />
   </a>
-</p>
 
-<p align="center">
+  <br/><br/>
+
   <a href="mailto:tusharjamunkar569@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tusharjamunkar569%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/💼_Status-Open_to_Work_|_Backend_&_Platform_Roles-00C853?style=for-the-badge&labelColor=0d1117" alt="Open to Work" />
   </a>
+  &nbsp;
+  <a href="mailto:tusharjamunkar569@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-tusharjamunkar569@gmail.com-EA4335?style=for-the-badge&labelColor=0d1117" alt="Email" />
+  </a>
+  &nbsp;
   <a href="https://github.com/tusharjamunkar">
-    <img src="https://img.shields.io/badge/GitHub-tusharjamunkar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/⭐_GitHub-Follow-22D3EE?style=for-the-badge&labelColor=0d1117" alt="GitHub" />
   </a>
-</p>
+
+</div>
+
+<br/>
 
 ---
 
-## 🌟 Featured Projects & Open Source
+### 🚀 About Me
 
-### 🛡️ [ContractGuard](https://github.com/tusharjamunkar/contract-guard) `v1.0.0`
-> **Zero-API OpenAPI 3.0 & 3.1 Breaking Change & Schema Drift Detector (GitHub Action & CLI)**
-- Built a standalone developer tool with **zero paid external API costs** that diffs OpenAPI specs directly against Git history.
-- Prevents silent microservice breakage by blocking PRs when endpoints, parameters, or response payloads drift.
-- Supports SARIF 2.1.0 security scanning, ANSI color terminal reports, and automated sticky GitHub PR comments.
-- **Stack**: Python 3.10–3.12, Composite GitHub Actions, Pytest, AST Schema Dereferencing.
-
-### ⚡ [LiteLLM (BerriAI/litellm)](https://github.com/BerriAI/litellm) — Core Contributor
-> Contributed upstream bug fixes, adapter schemas, and test suites to one of the most widely used enterprise LLM proxy gateways (~20k+ stars).
-- Engineered completion transformation adapters and pass-through normalization.
-- Authored targeted regression tests achieving 100% patch coverage across CI test matrices.
-
-### 🧠 [DSA & Problem Solving](https://github.com/tusharjamunkar/DSA)
-> Daily algorithmic problem-solving repository with clean Python implementations, time/space complexity analysis, and automated unit tests.
+```yaml
+engineer:
+  name: Tushar Jamunkar
+  role: Backend & Platform Engineer | Open Source Systems
+  focus: API Reliability, Developer Tooling, High-Scale Proxy Gateways
+  current_mission: "Eliminating API breaking changes with zero-cost automation"
+  core_principles:
+    - "If it can break in production, guard it at the PR level."
+    - "Write deterministic code with 100% test coverage."
+    - "Build tools that other engineers love to run."
+```
 
 ---
 
-## 💻 Tech Stack & Tooling
+### 🛡️ Featured Work & Open-Source Systems
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <br>
-  <!-- DevOps & Systems -->
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <br>
-  <!-- Frameworks & Testing -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ ContractGuard <a href="https://github.com/tusharjamunkar/contract-guard"><img src="https://img.shields.io/badge/v1.0.0-Release-blue?style=flat-square" /></a></h3>
+      <p align="center"><b>Zero-API OpenAPI Breaking Change Detector & GitHub Action</b></p>
+      <ul>
+        <li>Diffs OpenAPI 3.0 & 3.1 contracts directly against Git history without external APIs.</li>
+        <li>Blocks breaking PRs with exit code 1, posts automated markdown alerts & SARIF scans.</li>
+        <li>Dual distribution: GitHub Action & Developer CLI.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/tusharjamunkar/contract-guard">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ LiteLLM (BerriAI) <a href="https://github.com/BerriAI/litellm"><img src="https://img.shields.io/badge/Core_Contributor-20k+⭐-orange?style=flat-square" /></a></h3>
+      <p align="center"><b>Production LLM Proxy & Gateway for 100+ AI Models</b></p>
+      <ul>
+        <li>Engineered upstream completion transformation adapters and schema normalization.</li>
+        <li>Implemented deep model info resolution with 100% CI patch test coverage.</li>
+        <li>Trusted in production by thousands of AI engineering teams.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/BerriAI/litellm">
+          <img src="https://img.shields.io/badge/View_LiteLLM-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🧠 <a href="https://github.com/tusharjamunkar/DSA">Data Structures & Algorithmic Engineering</a></h3>
+      <p align="center">Clean, verified, production-grade implementations of core algorithms, distributed data patterns, and optimization techniques in Python with comprehensive automated test suites.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+### 🛠️ Languages, Systems & Developer Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharjamunkar&show_icons=true&theme=tokyonight&hide_border=false" alt="Tushar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharjamunkar&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,githubactions,git,linux,aws,postgres,ts,js,bash,postman&perline=6" alt="Tech Stack" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tusharjamunkar&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
+<br/>
 
 ---
 
-## 📬 Connect With Me
+### 📊 GitHub Activity & Metrics
 
-- 💼 **Looking for**: Full-time Backend / Platform / DevOps Engineering roles.
-- 📧 **Direct Email**: [tusharjamunkar569@gmail.com](mailto:tusharjamunkar569@gmail.com)
-- 🤝 **Collaboration**: Open to open-source developer tooling and API reliability systems.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=tusharjamunkar&show_icons=true&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=94A3B8&icon_color=F43F5E&bg_color=0d1117" alt="GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharjamunkar&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0d1117" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+
+  <img src="https://streak-stats.demolab.com/?user=tusharjamunkar&theme=tokyonight&hide_border=true&ring=22D3EE&fire=F43F5E&currStreakLabel=22D3EE&background=0d1117" alt="GitHub Streak" width="90%" />
+
+  <br/><br/>
+
+  <!-- Contribution Graph Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tusharjamunkar/tusharjamunkar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tusharjamunkar/tusharjamunkar/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/tusharjamunkar/tusharjamunkar/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
+
+<br/>
+
+---
+
+### 📬 Let's Connect
+
+<div align="center">
+  
+  **I'm actively interviewing for Backend, Platform, and DevOps Engineering opportunities.**  
+  If you're building high-reliability backends, developer tools, or distributed systems, let's talk!
+
+  <br/>
+
+  <a href="mailto:tusharjamunkar569@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-tusharjamunkar569@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tusharjamunkar">
+    <img src="https://img.shields.io/badge/GitHub_Profile-tusharjamunkar-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Built with purpose & precision • Designed to stand out to engineering leaders</sub>
+</div>
