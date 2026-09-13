@@ -1,34 +1,51 @@
 <div align="center">
 
-  # ⚡ Hey there, I'm Tushar Jamunkar
-  
+  <!-- Dynamic Waving Gradient Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F5D4,50:7928CA,100:FF0080&height=200&section=header&text=Tushar%20Jamunkar&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20Systems%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=58" width="100%" alt="Tushar Jamunkar Banner" />
+
+  <!-- Animated Neon Typing Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Engineer;Open+Source+Contributor+%40+LiteLLM;Creator+of+ContractGuard+(GitHub+Action);Building+Developer+Tooling+%26+API+Reliability" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Engineer;Open+Source+Contributor+%40+LiteLLM;Creator+of+ContractGuard+(GitHub+Action);Building+Developer+Tooling+%26+API+Reliability" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
+  <!-- High-Contrast Status & Connect Pills -->
   <a href="mailto:tusharjamunkar569@gmail.com">
-    <img src="https://img.shields.io/badge/💼_Status-Open_to_Work_|_Backend_&_Platform_Roles-00C853?style=for-the-badge&labelColor=0d1117" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/💼_Status-Open_to_Work_|_Backend_&_Platform_Roles-00E676?style=for-the-badge&labelColor=141321" alt="Open to Work" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=tusharjamunkar&color=22D3EE&style=for-the-badge&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tusharjamunkar&color=00F5D4&style=for-the-badge&labelColor=141321&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;
   <a href="mailto:tusharjamunkar569@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-tusharjamunkar569%40gmail.com-EA4335?style=for-the-badge&labelColor=0d1117" alt="Email" />
+    <img src="https://img.shields.io/badge/✉️_Email-tusharjamunkar569@gmail.com-FF0080?style=for-the-badge&labelColor=141321" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/tusharjamunkar">
-    <img src="https://img.shields.io/badge/⭐_GitHub-Follow-22D3EE?style=for-the-badge&labelColor=0d1117" alt="GitHub" />
+    <img src="https://img.shields.io/badge/⭐_GitHub-Follow-7928CA?style=for-the-badge&labelColor=141321" alt="GitHub" />
   </a>
 
 </div>
 
 <br/>
 
+<!-- Engineering Milestones & Achievement Shelf -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusharjamunkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <h3>🏆 Engineering Milestones & Badges</h3>
+  <img src="https://img.shields.io/badge/🏆_Core_Contributor-BerriAI%2Flitellm_(20k+⭐)-FF7043?style=for-the-badge&labelColor=141321" alt="LiteLLM Contributor" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🛡️_Creator-ContractGuard_v1.0.1-29B6F6?style=for-the-badge&labelColor=141321" alt="ContractGuard Creator" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡_Quality-100%25_CI_Test_Coverage-00E676?style=for-the-badge&labelColor=141321" alt="100% CI Coverage" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🚀_Architecture-OpenAPI_3.0_&_3.1-AB47BC?style=for-the-badge&labelColor=141321" alt="OpenAPI Architecture" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🧠_Algorithms-Production_DSA_in_Python-FFCA28?style=for-the-badge&labelColor=141321" alt="DSA in Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🐳_DevOps-Docker_&_GitHub_Actions-26A69A?style=for-the-badge&labelColor=141321" alt="Docker & GitHub Actions" />
 </div>
+
+<br/>
 
 ---
 
@@ -53,21 +70,21 @@ engineer:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ ContractGuard <a href="https://github.com/tusharjamunkar/contract-guard"><img src="https://img.shields.io/badge/v1.0.0-Release-blue?style=flat-square" /></a></h3>
+      <h3 align="center">🛡️ ContractGuard <a href="https://github.com/tusharjamunkar/contract-guard"><img src="https://img.shields.io/badge/v1.0.1-Release-00F5D4?style=flat-square&labelColor=141321" /></a></h3>
       <p align="center"><b>Zero-API OpenAPI Breaking Change Detector & GitHub Action</b></p>
       <ul>
         <li>Diffs OpenAPI 3.0 & 3.1 contracts directly against Git history without external APIs.</li>
         <li>Blocks breaking PRs with exit code 1, posts automated markdown alerts & SARIF scans.</li>
-        <li>Dual distribution: GitHub Action & Developer CLI.</li>
+        <li>Dual distribution: GitHub Action, Pre-commit hook & Developer CLI.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/tusharjamunkar/contract-guard">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repository-141321?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ LiteLLM (BerriAI) <a href="https://github.com/BerriAI/litellm"><img src="https://img.shields.io/badge/Core_Contributor-20k+⭐-orange?style=flat-square" /></a></h3>
+      <h3 align="center">⚡ LiteLLM (BerriAI) <a href="https://github.com/BerriAI/litellm"><img src="https://img.shields.io/badge/Core_Contributor-20k+⭐-FF7043?style=flat-square&labelColor=141321" /></a></h3>
       <p align="center"><b>Production LLM Proxy & Gateway for 100+ AI Models</b></p>
       <ul>
         <li>Engineered upstream completion transformation adapters and schema normalization.</li>
@@ -76,7 +93,7 @@ engineer:
       </ul>
       <p align="center">
         <a href="https://github.com/BerriAI/litellm">
-          <img src="https://img.shields.io/badge/View_LiteLLM-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_LiteLLM-141321?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -103,33 +120,23 @@ engineer:
 
 ---
 
-### 📈 Dynamic Activity & Commit Velocity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharjamunkar&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Tushar's Activity Wave" />
-</div>
-
-<br/>
-
----
-
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Live Metrics
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=tusharjamunkar&show_icons=true&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=94A3B8&icon_color=F43F5E&bg_color=0d1117" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tusharjamunkar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharjamunkar&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0d1117" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tusharjamunkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
   
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=tusharjamunkar&theme=tokyonight&hide_border=true&ring=22D3EE&fire=F43F5E&currStreakLabel=22D3EE&background=0d1117" alt="GitHub Streak" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=tusharjamunkar&theme=radical&hide_border=true" alt="GitHub Streak" width="90%" />
 
   <br/><br/>
 
@@ -156,17 +163,18 @@ engineer:
   <br/>
 
   <a href="mailto:tusharjamunkar569@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-tusharjamunkar569@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send_an_Email-tusharjamunkar569@gmail.com-FF0080?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/tusharjamunkar">
-    <img src="https://img.shields.io/badge/GitHub_Profile-tusharjamunkar-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Profile-tusharjamunkar-00F5D4?style=for-the-badge&labelColor=141321&logo=github&logoColor=white" />
   </a>
 
 </div>
 
 <br/>
 
+<!-- Dynamic Bottom Wave Footer -->
 <div align="center">
-  <sub>Built with purpose & precision • Designed to stand out to engineering leaders</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F5D4,50:7928CA,100:FF0080&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
