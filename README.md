@@ -12,8 +12,10 @@
     <img src="https://img.shields.io/badge/💼_Status-Open_to_Work_|_Backend_&_Platform_Roles-00C853?style=for-the-badge&labelColor=0d1117" alt="Open to Work" />
   </a>
   &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=tusharjamunkar&color=22D3EE&style=for-the-badge&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;
   <a href="mailto:tusharjamunkar569@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-tusharjamunkar569@gmail.com-EA4335?style=for-the-badge&labelColor=0d1117" alt="Email" />
+    <img src="https://img.shields.io/badge/✉️_Email-tusharjamunkar569%40gmail.com-EA4335?style=for-the-badge&labelColor=0d1117" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/tusharjamunkar">
@@ -23,6 +25,10 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tusharjamunkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -97,7 +103,17 @@ engineer:
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📈 Dynamic Activity & Commit Velocity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharjamunkar&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Tushar's Activity Wave" />
+</div>
+
+<br/>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
   <table border="0">
