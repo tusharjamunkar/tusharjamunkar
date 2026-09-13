@@ -1,18 +1,18 @@
 <div align="center">
 
   <!-- Dynamic Waving Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F5D4,50:7928CA,100:FF0080&height=200&section=header&text=Tushar%20Jamunkar&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20Systems%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=58" width="100%" alt="Tushar Jamunkar Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F5D4,50:7928CA,100:FF0080&height=200&section=header&text=Tushar%20Jamunkar&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Backend%20and%20Platform%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=58" width="100%" alt="Tushar Jamunkar Banner" />
 
   <!-- Animated Neon Typing Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Engineer;Open+Source+Contributor+%40+LiteLLM;Creator+of+ContractGuard+(GitHub+Action);Building+Developer+Tooling+%26+API+Reliability" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Backend+and+Systems+Engineer;Open+Source+Contributor+%40+LiteLLM;Creator+of+ContractGuard+(GitHub+Action);Building+Developer+Tooling+and+API+Reliability" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- High-Contrast Status & Connect Pills -->
   <a href="mailto:tusharjamunkar569@gmail.com">
-    <img src="https://img.shields.io/badge/💼_Status-Open_to_Work_|_Backend_&_Platform_Roles-00E676?style=for-the-badge&labelColor=141321" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/💼_Status-Open_to_Work_|_Backend_and_Platform_Roles-00E676?style=for-the-badge&labelColor=141321" alt="Open to Work" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=tusharjamunkar&color=00F5D4&style=for-the-badge&labelColor=141321&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -38,11 +38,11 @@
   &nbsp;
   <img src="https://img.shields.io/badge/⚡_Quality-100%25_CI_Test_Coverage-00E676?style=for-the-badge&labelColor=141321" alt="100% CI Coverage" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/🚀_Architecture-OpenAPI_3.0_&_3.1-AB47BC?style=for-the-badge&labelColor=141321" alt="OpenAPI Architecture" />
+  <img src="https://img.shields.io/badge/🚀_Architecture-OpenAPI_3.0_and_3.1-AB47BC?style=for-the-badge&labelColor=141321" alt="OpenAPI Architecture" />
   &nbsp;
   <img src="https://img.shields.io/badge/🧠_Algorithms-Production_DSA_in_Python-FFCA28?style=for-the-badge&labelColor=141321" alt="DSA in Python" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🐳_DevOps-Docker_&_GitHub_Actions-26A69A?style=for-the-badge&labelColor=141321" alt="Docker & GitHub Actions" />
+  <img src="https://img.shields.io/badge/🐳_DevOps-Docker_and_GitHub_Actions-26A69A?style=for-the-badge&labelColor=141321" alt="Docker and GitHub Actions" />
 </div>
 
 <br/>
