@@ -101,7 +101,7 @@ engineer:
   <tr>
     <td colspan="2" valign="top">
       <h3 align="center">🧠 <a href="https://github.com/tusharjamunkar/DSA">Data Structures & Algorithmic Engineering</a> <a href="https://tusharjamunkar.github.io/DSA/"><img src="https://img.shields.io/badge/Live_Portfolio-GitHub_Pages-00F5D4?style=flat-square&labelColor=141321" /></a></h3>
-      <p align="center">Clean, verified, production-grade implementations of <b>50 core algorithmic problems</b> across <b>7 modules</b> (Trees module in progress) in Python with 100% test coverage and an interactive web portfolio deployed on GitHub Pages.</p>
+      <p align="center">Clean, verified, production-grade implementations of <b>53 core algorithmic problems</b> across <b>7 modules</b> (Trees module in progress) in Python with 100% test coverage and an interactive web portfolio deployed on GitHub Pages.</p>
     </td>
   </tr>
 </table>
